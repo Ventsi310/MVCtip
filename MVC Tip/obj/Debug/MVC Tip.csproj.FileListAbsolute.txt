@@ -1,0 +1,8 @@
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\bin\Debug\MVC Tip.exe.config
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\bin\Debug\MVC Tip.exe
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\bin\Debug\MVC Tip.pdb
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\obj\Debug\MVC Tip.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\obj\Debug\MVC Tip.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\obj\Debug\MVC Tip.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\obj\Debug\MVC Tip.exe
+C:\Users\STUDENTS-1212-8\Music\venci11a 2\MVC Tip\MVC Tip\obj\Debug\MVC Tip.pdb
